@@ -8,4 +8,8 @@ Un bot automatizado que detecta las mejores ofertas de Steam en tiempo real. ¡N
 ## 🚀 Instalación
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/tuusuario/steam-discount-tracker.git
+git clone https://github.com/reactive-end/steam-discount-tracker.git
+```
+2. Inicia el proceso:
+```bash
+npm run start
