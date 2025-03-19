@@ -1,0 +1,16 @@
+{
+  "name": "bcv-value",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "reactive_end",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "playwright": "^1.51.1"
+  }
+}
